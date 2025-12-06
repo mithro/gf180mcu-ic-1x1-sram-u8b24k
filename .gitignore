@@ -7,3 +7,6 @@ sim_build/
 final/
 img/
 *.lyrdb
+worktrees/
+gh-pages/
+gf180mcu
