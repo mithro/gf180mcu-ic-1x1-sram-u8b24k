@@ -1,6 +1,6 @@
 # gf180mcu_ic_1x1_sram_u8b24k Datasheet
 
-1x1 slot SRAM - 8-bit data, 24KB capacity using 512x8 PDK macros
+GF180MCU 1x1 SRAM Test Chip - 24KB unified 8-bit bus
 ## General Description
 
 gf180mcu_ic_1x1_sram_u8b24k is an SRAM-based memory chip designed for the GF180MCU process.
